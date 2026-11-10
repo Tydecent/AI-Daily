@@ -1,0 +1,17 @@
+# 环境与密钥
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# 运行时数据
+data/latest.json
+data/reports/*.json
+data/app.log*
+data/*.tmp
+
+# 编辑器/系统
+.idea/
+.vscode/
+.DS_Store
